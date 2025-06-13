@@ -1,8 +1,8 @@
 <div align="center" style="margin-bottom:1em">
   <h1 align="center">GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents</h1>
   
-  <div>GSO (Global Software Optimization) is a benchmark of over 100 optimization tasks across 10 codebases in multiple languages.</div>
-  <div>Agents are tasked optimize software against precise performance tests and are judged against expert developer commits.</div>
+  <div>GSO (Global Software Optimization) is a benchmark of over 100 optimization tasks across codebases and languages.</div>
+  <div>Agents are tasked to optimize software against precise performance tests and are judged against expert developer commits.</div>
 </div>
 <hr/>
 
