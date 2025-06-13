@@ -1,12 +1,13 @@
-## GSO
+<div align="center" style="margin-bottom:1em">
+  <h1 align="center">GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents</h1>
+  
+  <div>GSO (Global Software Optimization) is a benchmark of over 100 optimization tasks across 10 codebases in multiple languages.</div>
+  <div>Agents are tasked optimize software against precise performance tests and are judged against expert developer commits.</div>
+</div>
+<hr/>
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This organization contains the source code for the GSO benchmark, including:
+* [GSO-bench](https://github.com/gso-bench/gso), a benchmark for evaluating AI systems on real world GitHub issues.
+* [Submissions](https://github.com/gso-bench/submissions), containing records of submissions to the GSO leaderboard.
+* [Example Usage](https://github.com/gso-bench/OpenHands/tree/main/evaluation/benchmarks/gso), an example of running GSO on your Agent (in this case OpenHands) to generate GSO solutions.
