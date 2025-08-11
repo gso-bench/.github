@@ -9,5 +9,5 @@
 
 This organization contains the source code for the GSO benchmark, including:
 * [GSO-bench](https://github.com/gso-bench/gso), a benchmark for evaluating AI systems on real world GitHub issues.
-* [Submissions](https://github.com/gso-bench/submissions), containing records of submissions to the GSO leaderboard.
+* [Submissions](https://github.com/gso-bench/submissions), containing records of submissions to the GSO leaderboard (WIP)
 * [Example Usage](https://github.com/gso-bench/OpenHands/tree/gso-eval/evaluation/benchmarks/gso), an example of running GSO on your Agent (in this case OpenHands) to generate GSO solutions.
