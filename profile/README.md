@@ -10,4 +10,4 @@
 This organization contains the source code for the GSO benchmark, including:
 * [GSO](https://github.com/gso-bench/gso), a benchmark for evaluating AI systems on real world GitHub issues.
 * [Experiments](https://github.com/gso-bench/gso-experiments), execution logs, trajectories, and results from evaluation runs on GSO.
-* [Example Usage](https://github.com/gso-bench/OpenHands/tree/gso-eval/evaluation/benchmarks/gso), an example of running GSO on your Agent (in this case OpenHands) to generate GSO solutions.
+* [Scaffolds](https://github.com/gso-bench/scaffolds), examples of running popular Agents via [Harbor](https://harborframework.com/) (or) a specific harness like [OpenHands](https://github.com/OpenHands/OpenHands) on GSO.
